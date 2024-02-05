@@ -1,0 +1,19 @@
+{
+  "name": "fld-str",
+  "version": "1.0.10",
+  "description": "creating folders and file and it's jsx in one command",
+  "main": "index.js",
+  "bin": {
+    "mld": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "shortcut",
+    "folder shortcut",
+    "shortcut template jsx"
+  ]
+}
